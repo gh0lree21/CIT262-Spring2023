@@ -1,0 +1,24 @@
+{
+  "name": "nodejsexample",
+  "version": "1.0.0",
+  "description": "First NodeJS Creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gh0lree21/CIT262-Spring2023.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "HelloWorld",
+    "Pilot"
+  ],
+  "author": "Grant Holley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gh0lree21/CIT262-Spring2023/issues"
+  },
+  "homepage": "https://github.com/gh0lree21/CIT262-Spring2023#readme"
+}
